@@ -6,7 +6,6 @@ html,
 body {
   height: 100%;
   width: 100%;
-  overflow: hidden;
 }
 .main {
   height: 100%;
@@ -71,7 +70,7 @@ body {
   -webkit-filter: blur(30px);
 }
 .text .center p {
-  margin-top: 8%;
+  margin-top: 30px;
   font-size: 17px;
 }
 .text .center p:nth-child(1) {
@@ -79,7 +78,7 @@ body {
 }
 
 .text .center .container {
-  margin-top: 20%;
+  margin-top: 50px;
   margin-bottom: 10px;
   width: 100%;
   display: flex;
